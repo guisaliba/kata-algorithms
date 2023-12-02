@@ -16,7 +16,7 @@ This project was built using:
 - TypeScript
 - JavaScript
 
-Course notes: https://theprimeagen.github.io/fem-algos/
+Course notes: https://theprimeagen.github.io/fem-algos/ <br>
 Course exercises: https://github.com/ThePrimeagen/kata-machine
 
 ## Installation
