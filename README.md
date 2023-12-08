@@ -1,6 +1,6 @@
 <samp>
   <h1 align="center">
-    FEM Primeagen Algorithms Course
+    Frontend Masters Primeagen Algorithms Course
   </h1>
 
 ## Description
@@ -27,5 +27,4 @@ To install this project, clone the repository using the following command:
 git clone https://github.com/guisaliba/femprime-algorithms.git
 ```
 
-</samp>
 </samp>
