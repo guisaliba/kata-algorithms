@@ -21,7 +21,7 @@
 // We want to keep doing that until we find the needle or until we discard every element in the array;
 // If we discard every element in the array, we return false. We achieve that when the lowest index becomes the highest;
 
-export default function bs_list(haystack: number[], needle: number): boolean {
+function bs_list(haystack: number[], needle: number): boolean {
   let lo = 0;
   let hi = haystack.length;
 
