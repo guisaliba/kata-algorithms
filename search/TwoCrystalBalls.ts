@@ -1,5 +1,5 @@
-//
-function two_crystal_balls(breaks: boolean[]): number {
+// TODO: Add description
+function twoCrystalBalls(breaks: boolean[]): number {
   const jmpAmount = Math.floor(Math.sqrt(breaks.length));
 
   let i = jmpAmount;
