@@ -7,7 +7,7 @@
 
 Repository for the Frontend Masters Primeagen Algorithms Course. This course is a part of the Frontend Masters Bootcamp and this repository contains solutions of mine to all exercises presented during the course.
 <br> <br>
-A lot of comments and explanations of my own were added to the code to help me understand the concepts and the solutions. Feel free to use this repository as a reference for your own studies as I did with the course. You can check the course [here](https://frontendmasters.com/courses/algorithms/).
+A lot of comments and explanations of my own were added to the code to help me understand the concepts and the solutions. Feel free to use this repository as a reference for your own studies. You can check the course [here](https://frontendmasters.com/courses/algorithms/).
 
 ## Technologies
 
