@@ -24,7 +24,7 @@ Course exercises: https://github.com/ThePrimeagen/kata-machine
 To install this project, clone the repository using the following command:
 
 ```
-git clone https://github.com/guisaliba/femprime-algorithms.git
+git clone https://github.com/guisaliba/kata-algorithms.git
 ```
 
 </samp>
