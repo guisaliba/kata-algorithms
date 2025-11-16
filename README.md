@@ -1,6 +1,6 @@
 <samp>
   <h1 align="center">
-    Frontend Masters Primeagen Algorithms Course
+    Kata Algorithms
   </h1>
 
 ## Description
